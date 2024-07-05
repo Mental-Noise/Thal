@@ -27,4 +27,8 @@ The module will soon be available on [my Tindie store](https://www.tindie.com/st
 
 All schematics can be found in the [schematics folder](./schematics).
 
+To import the schematics:
+- Install EasyEDA at https://easyeda.com/ and download the standard edition
+- Import [schematics.json](./schematics/schematics.json) in EasyEDA editor by clicking the document icon on the topbar, "Document" > "Open" > "EasyEDA Source", and select the json file
+
 ![Thal - Mental Noise - Schematics](./schematics/thal.png)
